@@ -10,7 +10,7 @@ https://docs.link-ai.tech/cow/quick-start
 
 
 
-> 在已有fastgpt和cow的前提下，将fastgpt接入cow。更改config.json，将fastgpt的api填入。
+> 在已有fastgpt和cow的前提下，将fastgpt接入cow。更改config.json，将fastgpt的api填入。详细内容参考config.json这个文件。
 
 
 
