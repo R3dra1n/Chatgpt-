@@ -1,8 +1,8 @@
 {
   "channel_type": "wx",
   "model": "gpt-4o-mini",
-  "open_ai_api_key": "openapi-iq9lAeC3v6S7ZVOxerbWQW3SiMuxKzoHUorkWQmaWZ3dMBN5ruQpFGYmfIDlnt",
-  "open_ai_api_base": "https://ai.adlawai.cn/api/v1",
+  "open_ai_api_key": "your_api", #here
+  "open_ai_api_base": "your_url", #记得加上/v1
   "use_azure_chatgpt": false, 
   "claude_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
@@ -15,12 +15,11 @@
   ],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@bot", "话说", "@白俊逸"
+    "@bot", "话说"
   ],
   "group_name_white_list": [
     "ChatGPT测试群",
-    "ChatGPT测试群2",
-    "打车上班群"
+    "ChatGPT测试群2"
   ],
   "group_at_off": false,
   "group_welcome_msg": "又来一个新人啦！掌声鼓起来！",
@@ -38,10 +37,10 @@
   "use_linkai": false,
   "linkai_api_key": "",
   "linkai_app_code": "",
-  "wechatcom_corp_id": "wwd533a26def6e8ad5",  
-  "wechatcomapp_token": "2wLXVWk1U9lK77HhY94mdN6",  
+  "wechatcom_corp_id": "",  
+  "wechatcomapp_token": "",  
   "wechatcomapp_port": 9898, 
-  "wechatcomapp_secret": "8p4EBsJ8NAhYOGjv2mF57jjFPL-TqWzYM1GxXypAgd4",  
+  "wechatcomapp_secret": "",  
   "wechatcomapp_agent_id": "1000002", 
-  "wechatcomapp_aes_key": "lmkBqXIpHHCEXVY9vVOG5wWlcPrr3Qoz8LVOD49qgPW",  
+  "wechatcomapp_aes_key": "",  
 }
